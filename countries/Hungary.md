@@ -9,6 +9,6 @@ Budapest
 Hungarian
 
 ## interesting trivia
-There are 16 vowels in the language.
+There are 14 vowels in the language.
 
 
